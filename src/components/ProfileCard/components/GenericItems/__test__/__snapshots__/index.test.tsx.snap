@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BasicInfoItem /> should renders the component with the given props 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  font-size: 16px;
+  line-height: 1.4em;
+  padding-bottom: 2px;
+  color: #797979;
+}
+
+.c4 {
+  padding: 0 3px;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c3 {
+  text-transform: capitalize;
+}
+
+.c2 {
+  height: 7px;
+  width: 7px;
+  margin-right: 4px;
+  background-color: #55cc44;
+  border-radius: 50%;
+}
+
+.c5 {
+  text-transform: capitalize;
+}
+
+.c6 {
+  padding-left: 3px;
+  font-size: 13px;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <span
+      class="c2"
+      data-testid="status-icon"
+    />
+    <span
+      class="c3"
+    >
+      Alive
+    </span>
+  </div>
+  <span
+    class="c4"
+  >
+    -
+  </span>
+  <div
+    class="c1"
+  >
+    <span
+      class="c5"
+    >
+      Human
+    </span>
+    <span
+      class="c6"
+    >
+      (
+      Male
+      )
+    </span>
+  </div>
+</div>
+`;

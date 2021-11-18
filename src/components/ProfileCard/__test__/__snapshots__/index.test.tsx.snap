@@ -1,0 +1,343 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProfileCard /> should renders the component 1`] = `
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  font-size: 16px;
+  line-height: 1.4em;
+  padding-bottom: 2px;
+  color: #797979;
+}
+
+.c8 {
+  padding: 0 3px;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c7 {
+  text-transform: capitalize;
+}
+
+.c6 {
+  height: 7px;
+  width: 7px;
+  margin-right: 4px;
+  background-color: #55cc44;
+  border-radius: 50%;
+}
+
+.c9 {
+  text-transform: capitalize;
+}
+
+.c10 {
+  padding-left: 3px;
+  font-size: 13px;
+}
+
+.c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 6px 1px;
+}
+
+.c16 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #7c7c7c;
+}
+
+.c17 {
+  padding-left: 3px;
+  color: #222222;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 4px 0;
+}
+
+.c13 {
+  font-size: 15px;
+  color: #797979;
+}
+
+.c14 {
+  font-size: 16px;
+}
+
+.c18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 6px 1px;
+}
+
+.c19 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #7c7c7c;
+}
+
+.c20 {
+  padding-left: 3px;
+  color: #222222;
+}
+
+.c21 {
+  font-weight: 500;
+  color: #1976d2;
+  cursor: pointer;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 230px;
+  text-align: center;
+  padding: 1.3em 1.3em 0.5em 1.3em;
+  margin: 1.1em 0.9em;
+  border-radius: 15px;
+  box-shadow: 0 0 6px 4px #e3e3e3;
+  -webkit-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+}
+
+.c0:hover {
+  box-shadow: 0 0 14px 2px #aaaaaa;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.c1 img {
+  border-radius: 15px;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: left;
+  padding: 12px 0;
+}
+
+.c3 {
+  font-size: 22px;
+  padding-bottom: 2px;
+}
+
+.c11 {
+  padding: 2px 0;
+}
+
+<div
+  class="c0"
+  data-testid="profile-card"
+>
+  <div
+    class="c1"
+  >
+    <img
+      alt="Rick Sanchez"
+      height="220"
+      src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+      width="220"
+    />
+  </div>
+  <div
+    class="c2"
+  >
+    <span
+      class="c3"
+    >
+      Rick Sanchez
+    </span>
+    <div
+      class="c4"
+    >
+      <div
+        class="c5"
+      >
+        <span
+          class="c6"
+          data-testid="status-icon"
+        />
+        <span
+          class="c7"
+        >
+          Alive
+        </span>
+      </div>
+      <span
+        class="c8"
+      >
+        -
+      </span>
+      <div
+        class="c5"
+      >
+        <span
+          class="c9"
+        >
+          Human
+        </span>
+        <span
+          class="c10"
+        >
+          (
+          Male
+          )
+        </span>
+      </div>
+    </div>
+    <div
+      class="c11"
+    >
+      <div
+        class="c12"
+      >
+        <span
+          class="c13"
+        >
+          Dimension
+          :
+        </span>
+        <span
+          class="c14"
+        >
+          unknown
+        </span>
+      </div>
+      <div
+        class="c12"
+      >
+        <span
+          class="c13"
+        >
+          Location
+          :
+        </span>
+        <span
+          class="c14"
+        >
+          Citadel of Ricks
+        </span>
+      </div>
+      <div
+        class="c12"
+      >
+        <span
+          class="c13"
+        >
+          Location Type
+          :
+        </span>
+        <span
+          class="c14"
+        >
+          Space station
+        </span>
+      </div>
+    </div>
+    <div
+      class="c15"
+    >
+      <span
+        class="c16"
+      >
+        Number of Residents
+        :
+      </span>
+      <span
+        class="c17"
+      >
+        10
+      </span>
+    </div>
+    <div
+      class="c18"
+      data-testid="episodes-item"
+    >
+      <span
+        class="c19"
+      >
+        Episodes
+        :
+      </span>
+      <div>
+        <span
+          class="c20"
+        >
+          Rixty Minutes
+        </span>
+         
+        <a
+          class="c21"
+        >
+          and 4 more
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

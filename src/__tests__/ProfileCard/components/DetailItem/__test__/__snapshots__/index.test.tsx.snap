@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LocationItem /> should renders the component 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 4px 0;
+}
+
+.c1 {
+  font-size: 15px;
+  color: #797979;
+}
+
+.c2 {
+  font-size: 16px;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1"
+  >
+    :
+  </span>
+  <span
+    class="c2"
+  />
+</div>
+`;

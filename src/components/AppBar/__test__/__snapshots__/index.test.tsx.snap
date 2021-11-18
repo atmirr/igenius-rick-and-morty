@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AppBar /> should renders the component 1`] = `
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background-color: #11b0c8;
+  border-bottom: 1px solid #06a3bb;
+  padding: 10px 25px;
+  height: 90px;
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.c1 {
+  height: 60px;
+}
+
+<div
+  class="c0"
+>
+  <img
+    alt="Rick & Morty logo"
+    class="c1"
+    src="rick-and-morty-logo.svg"
+  />
+</div>
+`;

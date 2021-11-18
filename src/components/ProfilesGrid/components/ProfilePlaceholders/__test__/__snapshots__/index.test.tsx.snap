@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProfilePlaceholders /> should renders the component 1`] = `
+.c0 {
+  margin: 1.1em 0.7em;
+  border: 3px solid #f3f3f3;
+  border-radius: 15px;
+}
+
+<div
+  class="c0"
+>
+  <svg
+    aria-labelledby="profile-placeholder-0-aria"
+    data-testid="profile-placeholder-0"
+    height="500"
+    role="img"
+    viewBox="0 0 273 500"
+    width="273"
+  >
+    <title
+      id="profile-placeholder-0-aria"
+    >
+      Loading...
+    </title>
+    <rect
+      clip-path="url(#profile-placeholder-0-diff)"
+      height="100%"
+      role="presentation"
+      style="fill: url(#profile-placeholder-0-animated-diff);"
+      width="100%"
+      x="0"
+      y="0"
+    />
+    <defs
+      role="presentation"
+    >
+      <clippath
+        id="profile-placeholder-0-diff"
+      >
+        <rect
+          height="200"
+          rx="15"
+          ry="15"
+          width="243"
+          x="15"
+          y="15"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="239"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="264"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="289"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="314"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="339"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="364"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="389"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="414"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="439"
+        />
+        <rect
+          height="10"
+          rx="0"
+          ry="0"
+          width="243"
+          x="15"
+          y="464"
+        />
+      </clippath>
+      <lineargradient
+        id="profile-placeholder-0-animated-diff"
+      >
+        <stop
+          offset="0%"
+          stop-color="#f3f3f3"
+          stop-opacity="1"
+        >
+          <animate
+            attributeName="offset"
+            dur="1s"
+            keyTimes="0; 0.25; 1"
+            repeatCount="indefinite"
+            values="-2; -2; 1"
+          />
+        </stop>
+        <stop
+          offset="50%"
+          stop-color="#ecebeb"
+          stop-opacity="1"
+        >
+          <animate
+            attributeName="offset"
+            dur="1s"
+            keyTimes="0; 0.25; 1"
+            repeatCount="indefinite"
+            values="-1; -1; 2"
+          />
+        </stop>
+        <stop
+          offset="100%"
+          stop-color="#f3f3f3"
+          stop-opacity="1"
+        >
+          <animate
+            attributeName="offset"
+            dur="1s"
+            keyTimes="0; 0.25; 1"
+            repeatCount="indefinite"
+            values="0; 0; 3"
+          />
+        </stop>
+      </lineargradient>
+    </defs>
+  </svg>
+</div>
+`;
